@@ -43,6 +43,5 @@ The user can also enter budget categories in the budget tab by clicking the top 
 
 ## Authors
 
-* Casey Bernal
 * Sneha Seenuvasavarathan
-
+* Casey Bernal
